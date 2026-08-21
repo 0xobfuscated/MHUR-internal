@@ -18,6 +18,16 @@ Small C++ internal cheat for My Hero Ultra Rumble.
   </tr>
 </table>
 
+## Features
+
+- **ESP**
+- **Aimbot**
+- **Speed Modifications**
+- **Air Jump**
+- **Inf Plus Ultra**
+- **No Skill Cooldown**
+- ...
+
 ## Build Requirements
 
 - Visual Studio 2022 (v143 toolset)
